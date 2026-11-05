@@ -1,0 +1,6 @@
+{
+  "name": "Sila Document Automation",
+  "description": "Enterprise rental receipt automation, OCR payment verification, room billing status, and refund audit management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
